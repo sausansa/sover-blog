@@ -70,7 +70,7 @@ $articles = $result->fetch_all(MYSQLI_ASSOC);
     <a href="http://sover-blog.great-site.net/">Home</a>
     <a href="tentang.php">Tentang</a>
     <a href="kontak.php">Kontak</a>
-    <a href="login.php">Blog</a>
+    <a href="adminDashboard/login.php">Blog</a>
   </div>
 </div>
 <!-- Welcome Section -->
