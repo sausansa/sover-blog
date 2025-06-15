@@ -16,7 +16,7 @@
     <a href="artikel.php">Home</a>
     <a href="tentang.php">Tentang</a>
     <a href="kontak.php">Kontak</a>
-    <a href="login.php">Blog</a>
+    <a href="adminDashboard/login.php">Blog</a>
   </div>
 </div>
 
